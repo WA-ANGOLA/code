@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.fao.sola.admin</groupId>
     <artifactId>sola-admin-main</artifactId>
-    <version>1504a</version>
+    <version>0.1-1706</version>
     <packaging>pom</packaging>
     <name>Main Admin POM</name>
     <properties>
